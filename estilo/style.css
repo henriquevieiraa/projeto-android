@@ -53,6 +53,7 @@ header > h1{
 }
 
 header > p{
+    font-weight: bold;
     font-size: 1.2em;
     color: white;
     max-width: 600px;
